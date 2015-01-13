@@ -57,7 +57,7 @@
 * Currently using existing research to justify arguments
   * Need to do an experiment?
 
-*“Digital literacy”
+* “Digital literacy”
   * Simple use of digital media tools
     * Create video from iPhone
   * Critical use of digital media
@@ -73,6 +73,9 @@
 * Should be referencing Rene Hobbs(?)
 
 ##Mike Freeman
+
+* From last semester: [www.freeman.blue](http://www.freeman.blue/)
+  * Carrie will read and comment on (?)
 
 * ToDo
   * Set Goals
@@ -96,7 +99,7 @@ Working on literature review re: Audience research on social media & TV shows
   * More readings
   * Categorizing?  No.
 
-*Libby's general structure for master's thesis:
+* Libby's general structure for master's thesis:
   * Tell us
     1. What we know
     2. What we don't know
